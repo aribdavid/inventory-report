@@ -1,7 +1,7 @@
 # Boas-vindas ao repositório do Inventory Reports
 
 <details>
-  <summary><strong>👨‍💻 O que foi ser desenvolvido</strong></summary><br />
+  <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
   Foi implementado um **gerador de relatórios** que recebe como entrada arquivos com dados de um estoque e gera, como saída, um relatório acerca destes dados.
 
